@@ -14,7 +14,7 @@ namespace Task1
             int countChar = 0;
             Console.Write("Введите текст:");
             string input = Console.ReadLine();
-            //массив подстрок, получившихся из исходной с помощью заданных разделетилей
+            //массив подстрок, получившихся из исходной с помощью заданных разделителей
             string[] splitted = input.Split(new[] { ' ', '-', '.', '?', '!', ')', '(', ',', ':' }, StringSplitOptions.RemoveEmptyEntries);
             foreach (string spl in splitted)
             {
