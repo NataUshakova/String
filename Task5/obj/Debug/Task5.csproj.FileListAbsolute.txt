@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\bin\Debug\Task5.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\bin\Debug\Task5.exe
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\bin\Debug\Task5.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\obj\Debug\Task5.exe
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\obj\Debug\Task5.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache

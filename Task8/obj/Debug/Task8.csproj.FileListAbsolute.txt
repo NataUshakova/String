@@ -1,0 +1,6 @@
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\bin\Debug\Task8.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\bin\Debug\Task8.exe
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\bin\Debug\Task8.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\obj\Debug\Task8.exe
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\obj\Debug\Task8.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Natalya_Ushakova_String\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
